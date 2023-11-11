@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    line-height: 1.5; /* Zeilenabstand 1,5-fach */
+}
+
+select, button {
+    background-color: #fff;
+    color: #000; /* Schwarze Schrift */
+    border: none;
+    padding: 8px 12px;
+    font-size: 16px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff0000; /* Rot */
+    color: #fff;
+}
+
+#ergebnisse {
+    display: none;
+    color: #fff; /* Weiße Schrift */
+    margin-top: 20px; /* Abstand nach oben */
+    border: 2px solid #ff0000; /* Roter Rahmen */
+    border-radius: 10px; /* Abgerundete Ecken */
+    padding: 20px;
+    max-width: 600px; /* Maximalbreite des Datenblatts */
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #111; /* Dunkler Hintergrund */
+    text-align: left; /* Text linksbündig */
+}
+
+#fahrzeugTitel {
+    color: #fff; /* Rote Schrift für den Fahrzeugtitel */
+}
+
+#ergebnisse ul {
+    list-style-type: none;
+    padding: 0;
+    font-weight: bold; /* Ergebnisse fett */
+    font-size: 18px; /* Ergebnisse etwas größer */
+}
+
+#ergebnisse li {
+    font-weight: normal;
+    margin-bottom: 10px; /* Abstand zwischen den Elementen */
+}
+
+#kleingedrucktes {
+    font-size: 5px; /* Sehr kleine Schrift (5px) */
+    color: #888;
+    margin-top: 4cm; /* 4cm Abstand nach oben */
+    margin-bottom: 20px; /* Abstand nach unten */
+}
