@@ -9,7 +9,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -21,7 +21,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -33,7 +33,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -45,7 +45,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -57,7 +57,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -69,7 +69,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -81,7 +81,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -93,7 +93,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -105,7 +105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -117,7 +117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -129,7 +129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -141,7 +141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -153,7 +153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -165,7 +165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -177,7 +177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -189,7 +189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -201,7 +201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -213,7 +213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -225,7 +225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -237,7 +237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -249,7 +249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -261,7 +261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -273,7 +273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -285,7 +285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -297,7 +297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -309,7 +309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -321,7 +321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -333,7 +333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -345,7 +345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -357,7 +357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -369,7 +369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -381,7 +381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -393,7 +393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -405,7 +405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -417,7 +417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -429,7 +429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -441,7 +441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -453,7 +453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '549,- Euro inkl. MwSt.'
+        preis: '549.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -465,7 +465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -477,7 +477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -489,7 +489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -501,7 +501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -513,7 +513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -525,7 +525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -537,7 +537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -549,7 +549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -561,7 +561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -573,7 +573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -585,7 +585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -597,7 +597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -609,7 +609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -621,7 +621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -633,7 +633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '549,- Euro inkl. MwSt.'
+        preis: '549.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -645,7 +645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '549,- Euro inkl. MwSt.'
+        preis: '549.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -657,7 +657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '549,- Euro inkl. MwSt.'
+        preis: '549.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -669,7 +669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '639,- Euro inkl. MwSt.'
+        preis: '639.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -681,7 +681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '459,- Euro inkl. MwSt.'
+        preis: '459.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -693,7 +693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -705,7 +705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -717,7 +717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -729,7 +729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -741,7 +741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -753,7 +753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -765,7 +765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -777,7 +777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -789,7 +789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -801,7 +801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -813,7 +813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -825,7 +825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -837,7 +837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -849,7 +849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '549,- Euro inkl. MwSt.'
+        preis: '549.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -861,7 +861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '549,- Euro inkl. MwSt.'
+        preis: '549.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -873,7 +873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '549,- Euro inkl. MwSt.'
+        preis: '549.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -885,7 +885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '549,- Euro inkl. MwSt.'
+        preis: '549.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -897,7 +897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -909,7 +909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -921,7 +921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -933,7 +933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -945,7 +945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -957,7 +957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -969,7 +969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -981,7 +981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '639,- Euro inkl. MwSt.'
+        preis: '639.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -993,7 +993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1005,7 +1005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1017,7 +1017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1029,7 +1029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1041,7 +1041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1053,7 +1053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1065,7 +1065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1077,7 +1077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1089,7 +1089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1101,7 +1101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1113,7 +1113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1125,7 +1125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1137,7 +1137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1149,7 +1149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1161,7 +1161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1173,7 +1173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Alfa Romeo',
@@ -1185,7 +1185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '449,- Euro inkl. MwSt.'
+        preis: '449.- Euro inkl. MwSt.'
     },
     {
         marke: 'Aston Martin',
@@ -1197,7 +1197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Aston Martin',
@@ -1209,7 +1209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Aston Martin',
@@ -1221,7 +1221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Aston Martin',
@@ -1233,7 +1233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Aston Martin',
@@ -1245,7 +1245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Aston Martin',
@@ -1257,7 +1257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1269,7 +1269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1281,7 +1281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1293,7 +1293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1305,7 +1305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1317,7 +1317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1329,7 +1329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1341,7 +1341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1353,7 +1353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1365,7 +1365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1377,7 +1377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1389,7 +1389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1401,7 +1401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1413,7 +1413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1425,7 +1425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1437,7 +1437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1449,7 +1449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1461,7 +1461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1473,7 +1473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1485,7 +1485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1497,7 +1497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1509,7 +1509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1521,7 +1521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1533,7 +1533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1545,7 +1545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1557,7 +1557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1569,7 +1569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1581,7 +1581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1593,7 +1593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1605,7 +1605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1617,7 +1617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1629,7 +1629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1641,7 +1641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1653,7 +1653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1665,7 +1665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1677,7 +1677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1689,7 +1689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1701,7 +1701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1713,7 +1713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1725,7 +1725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1737,7 +1737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1749,7 +1749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1761,7 +1761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1773,7 +1773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1785,7 +1785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1797,7 +1797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1809,7 +1809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1821,7 +1821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1833,7 +1833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1845,7 +1845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1857,7 +1857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1869,7 +1869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1881,7 +1881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1893,7 +1893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1905,7 +1905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1917,7 +1917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1929,7 +1929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1941,7 +1941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1953,7 +1953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1965,7 +1965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1977,7 +1977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -1989,7 +1989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2001,7 +2001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2013,7 +2013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2025,7 +2025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2037,7 +2037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2049,7 +2049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2061,7 +2061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2073,7 +2073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2085,7 +2085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2097,7 +2097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2109,7 +2109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2121,7 +2121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2133,7 +2133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2145,7 +2145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2157,7 +2157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2169,7 +2169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2181,7 +2181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2193,7 +2193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2205,7 +2205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2217,7 +2217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2229,7 +2229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2241,7 +2241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2253,7 +2253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2265,7 +2265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2277,7 +2277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2289,7 +2289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2301,7 +2301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2313,7 +2313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2325,7 +2325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2337,7 +2337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2349,7 +2349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2361,7 +2361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2373,7 +2373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2385,7 +2385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2397,7 +2397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2409,7 +2409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2421,7 +2421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2433,7 +2433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2445,7 +2445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2457,7 +2457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2469,7 +2469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2481,7 +2481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '60 PS - 44 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2493,7 +2493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2505,7 +2505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2517,7 +2517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '80 PS - 59 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2529,7 +2529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2541,7 +2541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2553,7 +2553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2565,7 +2565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2577,7 +2577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2589,7 +2589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2601,7 +2601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2613,7 +2613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2625,7 +2625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2637,7 +2637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2649,7 +2649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2661,7 +2661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2673,7 +2673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '60 PS - 44 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2685,7 +2685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2697,7 +2697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2709,7 +2709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2721,7 +2721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2733,7 +2733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2745,7 +2745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2757,7 +2757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2769,7 +2769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2781,7 +2781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2793,7 +2793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2805,7 +2805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2817,7 +2817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2829,7 +2829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2841,7 +2841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2853,7 +2853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2865,7 +2865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2877,7 +2877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2889,7 +2889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2901,7 +2901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2913,7 +2913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2925,7 +2925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2937,7 +2937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2949,7 +2949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2961,7 +2961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2973,7 +2973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2985,7 +2985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -2997,7 +2997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '70 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3009,7 +3009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3021,7 +3021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3033,7 +3033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3045,7 +3045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3057,7 +3057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3069,7 +3069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3081,7 +3081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3093,7 +3093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3105,7 +3105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3117,7 +3117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3129,7 +3129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3141,7 +3141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3153,7 +3153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3165,7 +3165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3177,7 +3177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3189,7 +3189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3201,7 +3201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3213,7 +3213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '70 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3225,7 +3225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3237,7 +3237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3249,7 +3249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3261,7 +3261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3273,7 +3273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3285,7 +3285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3297,7 +3297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3309,7 +3309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3321,7 +3321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3333,7 +3333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3345,7 +3345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3357,7 +3357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3369,7 +3369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3381,7 +3381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '90 PS - 66 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3393,7 +3393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '110 PS - 81 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3405,7 +3405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '120 PS - 88 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3417,7 +3417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '75 PS - 55 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3429,7 +3429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3441,7 +3441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '72 PS - 53 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3453,7 +3453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3465,7 +3465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3477,7 +3477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3489,7 +3489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3501,7 +3501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3513,7 +3513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3525,7 +3525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3537,7 +3537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3549,7 +3549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '90 PS - 66 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3561,7 +3561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '110 PS - 81 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3573,7 +3573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '120 PS - 88 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3585,7 +3585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '75 PS - 55 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3597,7 +3597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3609,7 +3609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3621,7 +3621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3633,7 +3633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3645,7 +3645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3657,7 +3657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3669,7 +3669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3681,7 +3681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3693,7 +3693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3705,7 +3705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3717,7 +3717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3729,7 +3729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3741,7 +3741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3753,7 +3753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3765,7 +3765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3777,7 +3777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3789,7 +3789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3801,7 +3801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3813,7 +3813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3825,7 +3825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3837,7 +3837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3849,7 +3849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3861,7 +3861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3873,7 +3873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3885,7 +3885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3897,7 +3897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3909,7 +3909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3921,7 +3921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3933,7 +3933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3945,7 +3945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3957,7 +3957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3969,7 +3969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3981,7 +3981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '70 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -3993,7 +3993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4005,7 +4005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4017,7 +4017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4029,7 +4029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4041,7 +4041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4053,7 +4053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4065,7 +4065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4077,7 +4077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4089,7 +4089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4101,7 +4101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4113,7 +4113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '66 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4125,7 +4125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4137,7 +4137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4149,7 +4149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4161,7 +4161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4173,7 +4173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '100 PS - 74 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4185,7 +4185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4197,7 +4197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4209,7 +4209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '82 PS - 60 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4221,7 +4221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '43 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4233,7 +4233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4245,7 +4245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4257,7 +4257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4269,7 +4269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4281,7 +4281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4293,7 +4293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4305,7 +4305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4317,7 +4317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4329,7 +4329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4341,7 +4341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4353,7 +4353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4365,7 +4365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4377,7 +4377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4389,7 +4389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '60 PS - 44 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4401,7 +4401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4413,7 +4413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4425,7 +4425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Audi',
@@ -4437,7 +4437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4449,7 +4449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '2299,- Euro inkl. MwSt.'
+        preis: '2299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4461,7 +4461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1599,- Euro inkl. MwSt.'
+        preis: '1599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4473,7 +4473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1399,- Euro inkl. MwSt.'
+        preis: '1399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4485,7 +4485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1599,- Euro inkl. MwSt.'
+        preis: '1599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4497,7 +4497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1399,- Euro inkl. MwSt.'
+        preis: '1399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4509,7 +4509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4521,7 +4521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1599,- Euro inkl. MwSt.'
+        preis: '1599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4533,7 +4533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4545,7 +4545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4557,7 +4557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4569,7 +4569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '2199,- Euro inkl. MwSt.'
+        preis: '2199.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bentley',
@@ -4581,7 +4581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '60 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '2999,- Euro inkl. MwSt.'
+        preis: '2999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4593,7 +4593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4605,7 +4605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4617,7 +4617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4629,7 +4629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4641,7 +4641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4653,7 +4653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4665,7 +4665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4677,7 +4677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4689,7 +4689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4701,7 +4701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4713,7 +4713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4725,7 +4725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4737,7 +4737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4749,7 +4749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4761,7 +4761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4773,7 +4773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4785,7 +4785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4797,7 +4797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '70 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4809,7 +4809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4821,7 +4821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4833,7 +4833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4845,7 +4845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '113 PS - 83 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4857,7 +4857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '79 PS - 58 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4869,7 +4869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4881,7 +4881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4893,7 +4893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4905,7 +4905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4917,7 +4917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4929,7 +4929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4941,7 +4941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4953,7 +4953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4965,7 +4965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4977,7 +4977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -4989,7 +4989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5001,7 +5001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5013,7 +5013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5025,7 +5025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5037,7 +5037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5049,7 +5049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5061,7 +5061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5073,7 +5073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5085,7 +5085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5097,7 +5097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5109,7 +5109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5121,7 +5121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5133,7 +5133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5145,7 +5145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5157,7 +5157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5169,7 +5169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5181,7 +5181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5193,7 +5193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5205,7 +5205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5217,7 +5217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5229,7 +5229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5241,7 +5241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5253,7 +5253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5265,7 +5265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5277,7 +5277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5289,7 +5289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5301,7 +5301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '92 PS - 68 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5313,7 +5313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5325,7 +5325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5337,7 +5337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 44 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5349,7 +5349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5361,7 +5361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5373,7 +5373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5385,7 +5385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5397,7 +5397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5409,7 +5409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5421,7 +5421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5433,7 +5433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5445,7 +5445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5457,7 +5457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5469,7 +5469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5481,7 +5481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5493,7 +5493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '59 PS - 43 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5505,7 +5505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '59 PS - 43 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5517,7 +5517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5529,7 +5529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5541,7 +5541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5553,7 +5553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 45 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5565,7 +5565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5577,7 +5577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5589,7 +5589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5601,7 +5601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5613,7 +5613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5625,7 +5625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5637,7 +5637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5649,7 +5649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '79 PS - 58 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5661,7 +5661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5673,7 +5673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5685,7 +5685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '91 PS - 67 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5697,7 +5697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5709,7 +5709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5721,7 +5721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5733,7 +5733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5745,7 +5745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '84 PS - 62 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5757,7 +5757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5769,7 +5769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5781,7 +5781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5793,7 +5793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5805,7 +5805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '99 PS - 73 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5817,7 +5817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '80 PS - 59 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5829,7 +5829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5841,7 +5841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5853,7 +5853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5865,7 +5865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5877,7 +5877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5889,7 +5889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '96 PS - 71 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5901,7 +5901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5913,7 +5913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5925,7 +5925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5937,7 +5937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '84 PS - 62 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5949,7 +5949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5961,7 +5961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5973,7 +5973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '99 PS - 73 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5985,7 +5985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '80 PS - 59 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -5997,7 +5997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6009,7 +6009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6021,7 +6021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6033,7 +6033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6045,7 +6045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6057,7 +6057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6069,7 +6069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6081,7 +6081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6093,7 +6093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6105,7 +6105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6117,7 +6117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6129,7 +6129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6141,7 +6141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6153,7 +6153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '72 PS - 53 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6165,7 +6165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6177,7 +6177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6189,7 +6189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6201,7 +6201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '53 PS - 39 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6213,7 +6213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6225,7 +6225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6237,7 +6237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6249,7 +6249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6261,7 +6261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6273,7 +6273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6285,7 +6285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6297,7 +6297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6309,7 +6309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6321,7 +6321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6333,7 +6333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6345,7 +6345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 45 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6357,7 +6357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6369,7 +6369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6381,7 +6381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6393,7 +6393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '51 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6405,7 +6405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6417,7 +6417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6429,7 +6429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6441,7 +6441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6453,7 +6453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6465,7 +6465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6477,7 +6477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6489,7 +6489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6501,7 +6501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '749,- Euro inkl. MwSt.'
+        preis: '749.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6513,7 +6513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6525,7 +6525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6537,7 +6537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '120 PS - 88 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1499,- Euro inkl. MwSt.'
+        preis: '1499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6549,7 +6549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '105 PS - 77 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1499,- Euro inkl. MwSt.'
+        preis: '1499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6561,7 +6561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6573,7 +6573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6585,7 +6585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6597,7 +6597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6609,7 +6609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '749,- Euro inkl. MwSt.'
+        preis: '749.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6621,7 +6621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6633,7 +6633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6645,7 +6645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6657,7 +6657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6669,7 +6669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6681,7 +6681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '70 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6693,7 +6693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '115 PS - 85 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6705,7 +6705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6717,7 +6717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6729,7 +6729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6741,7 +6741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6753,7 +6753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6765,7 +6765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: ' PS - 4054 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6777,7 +6777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6789,7 +6789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6801,7 +6801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6813,7 +6813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6825,7 +6825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6837,7 +6837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6849,7 +6849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6861,7 +6861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6873,7 +6873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6885,7 +6885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6897,7 +6897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '60 PS - 44 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1499,- Euro inkl. MwSt.'
+        preis: '1499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6909,7 +6909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '110 PS - 81 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6921,7 +6921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6933,7 +6933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6945,7 +6945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6957,7 +6957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6969,7 +6969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6981,7 +6981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -6993,7 +6993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7005,7 +7005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7017,7 +7017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7029,7 +7029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7041,7 +7041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7053,7 +7053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7065,7 +7065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7077,7 +7077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7089,7 +7089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7101,7 +7101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '74 PS - 54 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7113,7 +7113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7125,7 +7125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7137,7 +7137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7149,7 +7149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7161,7 +7161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7173,7 +7173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7185,7 +7185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1499,- Euro inkl. MwSt.'
+        preis: '1499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7197,7 +7197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7209,7 +7209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7221,7 +7221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7233,7 +7233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7245,7 +7245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '70 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7257,7 +7257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7269,7 +7269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7281,7 +7281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '51 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7293,7 +7293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7305,7 +7305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7317,7 +7317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7329,7 +7329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7341,7 +7341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7353,7 +7353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '56 PS - 41 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7365,7 +7365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '74 PS - 54 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7377,7 +7377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7389,7 +7389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '57 PS - 42 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7401,7 +7401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7413,7 +7413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 81 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7425,7 +7425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7437,7 +7437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7449,7 +7449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7461,7 +7461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7473,7 +7473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7485,7 +7485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7497,7 +7497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7509,7 +7509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7521,7 +7521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7533,7 +7533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '59 PS - 43 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7545,7 +7545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '57 PS - 42 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7557,7 +7557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7569,7 +7569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7581,7 +7581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '56 PS - 41 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7593,7 +7593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7605,7 +7605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7617,7 +7617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 45 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7629,7 +7629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7641,7 +7641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7653,7 +7653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7665,7 +7665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7677,7 +7677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7689,7 +7689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '91 PS - 67 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7701,7 +7701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7713,7 +7713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7725,7 +7725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '749,- Euro inkl. MwSt.'
+        preis: '749.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7737,7 +7737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7749,7 +7749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7761,7 +7761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7773,7 +7773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '56 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7785,7 +7785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '91 PS - 67 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7797,7 +7797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7809,7 +7809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7821,7 +7821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '749,- Euro inkl. MwSt.'
+        preis: '749.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7833,7 +7833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7845,7 +7845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7857,7 +7857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7869,7 +7869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7881,7 +7881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7893,7 +7893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7905,7 +7905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7917,7 +7917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7929,7 +7929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7941,7 +7941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: ' PS - 2940 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7953,7 +7953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7965,7 +7965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7977,7 +7977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '68 PS - 50 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -7989,7 +7989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8001,7 +8001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8013,7 +8013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '63 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8025,7 +8025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8037,7 +8037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8049,7 +8049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8061,7 +8061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8073,7 +8073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8085,7 +8085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8097,7 +8097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8109,7 +8109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '749,- Euro inkl. MwSt.'
+        preis: '749.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8121,7 +8121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8133,7 +8133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '60 PS - 44 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8145,7 +8145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8157,7 +8157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8169,7 +8169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '54 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8181,7 +8181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '68 PS - 50 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8193,7 +8193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8205,7 +8205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '749,- Euro inkl. MwSt.'
+        preis: '749.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8217,7 +8217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '63 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8229,7 +8229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8241,7 +8241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8253,7 +8253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '67 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8265,7 +8265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8277,7 +8277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 51 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '749,- Euro inkl. MwSt.'
+        preis: '749.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8289,7 +8289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8301,7 +8301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '60 PS - 44 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8313,7 +8313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8325,7 +8325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8337,7 +8337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8349,7 +8349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8361,7 +8361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8373,7 +8373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8385,7 +8385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8397,7 +8397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8409,7 +8409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8421,7 +8421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8433,7 +8433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8445,7 +8445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '59 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8457,7 +8457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '59 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8469,7 +8469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '59 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8481,7 +8481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8493,7 +8493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8505,7 +8505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '99 PS - 73 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8517,7 +8517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '71 PS - 52 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8529,7 +8529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '91 PS - 67 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8541,7 +8541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8553,7 +8553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '59 PS - 49 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8565,7 +8565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8577,7 +8577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8589,7 +8589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8601,7 +8601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8613,7 +8613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'BMW',
@@ -8625,7 +8625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bugatti',
@@ -8637,7 +8637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '200 PS - 160 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '2999,- Euro inkl. MwSt.'
+        preis: '2999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Bugatti',
@@ -8649,7 +8649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '100 PS - 75 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '2999,- Euro inkl. MwSt.'
+        preis: '2999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8661,7 +8661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8673,7 +8673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8685,7 +8685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8697,7 +8697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8709,7 +8709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8721,7 +8721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8733,7 +8733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8745,7 +8745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8757,7 +8757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8769,7 +8769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8781,7 +8781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8793,7 +8793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8805,7 +8805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8817,7 +8817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8829,7 +8829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8841,7 +8841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chevrolet',
@@ -8853,7 +8853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8865,7 +8865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8877,7 +8877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8889,7 +8889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8901,7 +8901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8913,7 +8913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8925,7 +8925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8937,7 +8937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8949,7 +8949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8961,7 +8961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8973,7 +8973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8985,7 +8985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -8997,7 +8997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9009,7 +9009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9021,7 +9021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9033,7 +9033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9045,7 +9045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Bitte Anfragen,- Euro inkl. MwSt.'
+        preis: 'Bitte Anfragen.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9057,7 +9057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Bitte Anfragen,- Euro inkl. MwSt.'
+        preis: 'Bitte Anfragen.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9069,7 +9069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9081,7 +9081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9093,7 +9093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9105,7 +9105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9117,7 +9117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9129,7 +9129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9141,7 +9141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9153,7 +9153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9165,7 +9165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9177,7 +9177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9189,7 +9189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9201,7 +9201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9213,7 +9213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9225,7 +9225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9237,7 +9237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9249,7 +9249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9261,7 +9261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9273,7 +9273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9285,7 +9285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9297,7 +9297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9309,7 +9309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9321,7 +9321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9333,7 +9333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9345,7 +9345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9357,7 +9357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9369,7 +9369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9381,7 +9381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9393,7 +9393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9405,7 +9405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Chrysler',
@@ -9417,7 +9417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9429,7 +9429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9441,7 +9441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9453,7 +9453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9465,7 +9465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9477,7 +9477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9489,7 +9489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9501,7 +9501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9513,7 +9513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9525,7 +9525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9537,7 +9537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9549,7 +9549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9561,7 +9561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9573,7 +9573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9585,7 +9585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9597,7 +9597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9609,7 +9609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9621,7 +9621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9633,7 +9633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9645,7 +9645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9657,7 +9657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9669,7 +9669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9681,7 +9681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9693,7 +9693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9705,7 +9705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9717,7 +9717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9729,7 +9729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9741,7 +9741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9753,7 +9753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9765,7 +9765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9777,7 +9777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9789,7 +9789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9801,7 +9801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9813,7 +9813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9825,7 +9825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9837,7 +9837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9849,7 +9849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9861,7 +9861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9873,7 +9873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9885,7 +9885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9897,7 +9897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9909,7 +9909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9921,7 +9921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9933,7 +9933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9945,7 +9945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9957,7 +9957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9969,7 +9969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9981,7 +9981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -9993,7 +9993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10005,7 +10005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10017,7 +10017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10029,7 +10029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10041,7 +10041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10053,7 +10053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10065,7 +10065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10077,7 +10077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10089,7 +10089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10101,7 +10101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10113,7 +10113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10125,7 +10125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10137,7 +10137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10149,7 +10149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10161,7 +10161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10173,7 +10173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10185,7 +10185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10197,7 +10197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10209,7 +10209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10221,7 +10221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10233,7 +10233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10245,7 +10245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10257,7 +10257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10269,7 +10269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10281,7 +10281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10293,7 +10293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10305,7 +10305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10317,7 +10317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10329,7 +10329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10341,7 +10341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10353,7 +10353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10365,7 +10365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10377,7 +10377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10389,7 +10389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10401,7 +10401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10413,7 +10413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10425,7 +10425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10437,7 +10437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10449,7 +10449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10461,7 +10461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10473,7 +10473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10485,7 +10485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10497,7 +10497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10509,7 +10509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10521,7 +10521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10533,7 +10533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10545,7 +10545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10557,7 +10557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10569,7 +10569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10581,7 +10581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10593,7 +10593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10605,7 +10605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Citro n',
@@ -10617,7 +10617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10629,7 +10629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10641,7 +10641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10653,7 +10653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10665,7 +10665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10677,7 +10677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10689,7 +10689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10701,7 +10701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10713,7 +10713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10725,7 +10725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10737,7 +10737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10749,7 +10749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10761,7 +10761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10773,7 +10773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dacia',
@@ -10785,7 +10785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Daihatsu',
@@ -10797,7 +10797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Daihatsu',
@@ -10809,7 +10809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Daihatsu',
@@ -10821,7 +10821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Daihatsu',
@@ -10833,7 +10833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Daihatsu',
@@ -10845,7 +10845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Daihatsu',
@@ -10857,7 +10857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Daihatsu',
@@ -10869,7 +10869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Daihatsu',
@@ -10881,7 +10881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Daihatsu',
@@ -10893,7 +10893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dodge',
@@ -10905,7 +10905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dodge',
@@ -10917,7 +10917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dodge',
@@ -10929,7 +10929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Dodge',
@@ -10941,7 +10941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -10953,7 +10953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -10965,7 +10965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -10977,7 +10977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -10989,7 +10989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11001,7 +11001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1599,- Euro inkl. MwSt.'
+        preis: '1599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11013,7 +11013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11025,7 +11025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11037,7 +11037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1399,- Euro inkl. MwSt.'
+        preis: '1399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11049,7 +11049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11061,7 +11061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11073,7 +11073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11085,7 +11085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1599,- Euro inkl. MwSt.'
+        preis: '1599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11097,7 +11097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1399,- Euro inkl. MwSt.'
+        preis: '1399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11109,7 +11109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1399,- Euro inkl. MwSt.'
+        preis: '1399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ferrari',
@@ -11121,7 +11121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '2999,- Euro inkl. MwSt.'
+        preis: '2999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11133,7 +11133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11145,7 +11145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11157,7 +11157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11169,7 +11169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11181,7 +11181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11193,7 +11193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11205,7 +11205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11217,7 +11217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11229,7 +11229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11241,7 +11241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11253,7 +11253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11265,7 +11265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11277,7 +11277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11289,7 +11289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11301,7 +11301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11313,7 +11313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11325,7 +11325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11337,7 +11337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11349,7 +11349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11361,7 +11361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11373,7 +11373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11385,7 +11385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11397,7 +11397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11409,7 +11409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11421,7 +11421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11433,7 +11433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11445,7 +11445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11457,7 +11457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11469,7 +11469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11481,7 +11481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11493,7 +11493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '7 PS - 5 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11505,7 +11505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11517,7 +11517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11529,7 +11529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11541,7 +11541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11553,7 +11553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11565,7 +11565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11577,7 +11577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11589,7 +11589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11601,7 +11601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11613,7 +11613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11625,7 +11625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11637,7 +11637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11649,7 +11649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11661,7 +11661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11673,7 +11673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11685,7 +11685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11697,7 +11697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11709,7 +11709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11721,7 +11721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11733,7 +11733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11745,7 +11745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11757,7 +11757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11769,7 +11769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11781,7 +11781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11793,7 +11793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Bitte anfragen,- Euro inkl. MwSt.'
+        preis: 'Bitte anfragen.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11805,7 +11805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11817,7 +11817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11829,7 +11829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11841,7 +11841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11853,7 +11853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11865,7 +11865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11877,7 +11877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11889,7 +11889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11901,7 +11901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11913,7 +11913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11925,7 +11925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11937,7 +11937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11949,7 +11949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11961,7 +11961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11973,7 +11973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11985,7 +11985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -11997,7 +11997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12009,7 +12009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12021,7 +12021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12033,7 +12033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12045,7 +12045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12057,7 +12057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12069,7 +12069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12081,7 +12081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12093,7 +12093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12105,7 +12105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12117,7 +12117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12129,7 +12129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12141,7 +12141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12153,7 +12153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '7 PS - 5 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12165,7 +12165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12177,7 +12177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12189,7 +12189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12201,7 +12201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12213,7 +12213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12225,7 +12225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12237,7 +12237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12249,7 +12249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12261,7 +12261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12273,7 +12273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12285,7 +12285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12297,7 +12297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12309,7 +12309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12321,7 +12321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12333,7 +12333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12345,7 +12345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12357,7 +12357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12369,7 +12369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12381,7 +12381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12393,7 +12393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12405,7 +12405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12417,7 +12417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12429,7 +12429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12441,7 +12441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12453,7 +12453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12465,7 +12465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12477,7 +12477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12489,7 +12489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '7 PS - 5 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12501,7 +12501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12513,7 +12513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12525,7 +12525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12537,7 +12537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12549,7 +12549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12561,7 +12561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12573,7 +12573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12585,7 +12585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12597,7 +12597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12609,7 +12609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12621,7 +12621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12633,7 +12633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12645,7 +12645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12657,7 +12657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12669,7 +12669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12681,7 +12681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12693,7 +12693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12705,7 +12705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Fiat',
@@ -12717,7 +12717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12729,7 +12729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12741,7 +12741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12753,7 +12753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12765,7 +12765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12777,7 +12777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12789,7 +12789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12801,7 +12801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12813,7 +12813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12825,7 +12825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12837,7 +12837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12849,7 +12849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12861,7 +12861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12873,7 +12873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12885,7 +12885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12897,7 +12897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12909,7 +12909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12921,7 +12921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12933,7 +12933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12945,7 +12945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12957,7 +12957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12969,7 +12969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12981,7 +12981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -12993,7 +12993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13005,7 +13005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13017,7 +13017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13029,7 +13029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13041,7 +13041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13053,7 +13053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13065,7 +13065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13077,7 +13077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13089,7 +13089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13101,7 +13101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13113,7 +13113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13125,7 +13125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13137,7 +13137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13149,7 +13149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13161,7 +13161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13173,7 +13173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13185,7 +13185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13197,7 +13197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13209,7 +13209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13221,7 +13221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13233,7 +13233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13245,7 +13245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13257,7 +13257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13269,7 +13269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13281,7 +13281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13293,7 +13293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13305,7 +13305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13317,7 +13317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13329,7 +13329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13341,7 +13341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13353,7 +13353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13365,7 +13365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13377,7 +13377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13389,7 +13389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13401,7 +13401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13413,7 +13413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13425,7 +13425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13437,7 +13437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13449,7 +13449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13461,7 +13461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13473,7 +13473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13485,7 +13485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13497,7 +13497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13509,7 +13509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13521,7 +13521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13533,7 +13533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13545,7 +13545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13557,7 +13557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13569,7 +13569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13581,7 +13581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13593,7 +13593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13605,7 +13605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13617,7 +13617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13629,7 +13629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13641,7 +13641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13653,7 +13653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13665,7 +13665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13677,7 +13677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13689,7 +13689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13701,7 +13701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13713,7 +13713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13725,7 +13725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13737,7 +13737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13749,7 +13749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13761,7 +13761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13773,7 +13773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13785,7 +13785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13797,7 +13797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13809,7 +13809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13821,7 +13821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13833,7 +13833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13845,7 +13845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13857,7 +13857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13869,7 +13869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13881,7 +13881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13893,7 +13893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13905,7 +13905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13917,7 +13917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13929,7 +13929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13941,7 +13941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13953,7 +13953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13965,7 +13965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13977,7 +13977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -13989,7 +13989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14001,7 +14001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14013,7 +14013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14025,7 +14025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14037,7 +14037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14049,7 +14049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14061,7 +14061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14073,7 +14073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14085,7 +14085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14097,7 +14097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14109,7 +14109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14121,7 +14121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14133,7 +14133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14145,7 +14145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14157,7 +14157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14169,7 +14169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14181,7 +14181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14193,7 +14193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14205,7 +14205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14217,7 +14217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14229,7 +14229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14241,7 +14241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14253,7 +14253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14265,7 +14265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14277,7 +14277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14289,7 +14289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14301,7 +14301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14313,7 +14313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14325,7 +14325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14337,7 +14337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14349,7 +14349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14361,7 +14361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14373,7 +14373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14385,7 +14385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '419,- Euro inkl. MwSt.'
+        preis: '419.- Euro inkl. MwSt.'
     },
     {
         marke: 'Ford',
@@ -14397,7 +14397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14409,7 +14409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14421,7 +14421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14433,7 +14433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14445,7 +14445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14457,7 +14457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14469,7 +14469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14481,7 +14481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14493,7 +14493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14505,7 +14505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14517,7 +14517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14529,7 +14529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14541,7 +14541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14553,7 +14553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14565,7 +14565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14577,7 +14577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14589,7 +14589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14601,7 +14601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14613,7 +14613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14625,7 +14625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14637,7 +14637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14649,7 +14649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14661,7 +14661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14673,7 +14673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14685,7 +14685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14697,7 +14697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14709,7 +14709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14721,7 +14721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14733,7 +14733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14745,7 +14745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14757,7 +14757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14769,7 +14769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14781,7 +14781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14793,7 +14793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14805,7 +14805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14817,7 +14817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14829,7 +14829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14841,7 +14841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14853,7 +14853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14865,7 +14865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14877,7 +14877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14889,7 +14889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14901,7 +14901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Honda',
@@ -14913,7 +14913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hummer',
@@ -14925,7 +14925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hummer',
@@ -14937,7 +14937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hummer',
@@ -14949,7 +14949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -14961,7 +14961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -14973,7 +14973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -14985,7 +14985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -14997,7 +14997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15009,7 +15009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15021,7 +15021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15033,7 +15033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15045,7 +15045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15057,7 +15057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15069,7 +15069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15081,7 +15081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15093,7 +15093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15105,7 +15105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15117,7 +15117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15129,7 +15129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15141,7 +15141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15153,7 +15153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15165,7 +15165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Bitte anfragen,- Euro inkl. MwSt.'
+        preis: 'Bitte anfragen.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15177,7 +15177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15189,7 +15189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15201,7 +15201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15213,7 +15213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15225,7 +15225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15237,7 +15237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15249,7 +15249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15261,7 +15261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15273,7 +15273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15285,7 +15285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15297,7 +15297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15309,7 +15309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15321,7 +15321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15333,7 +15333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15345,7 +15345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15357,7 +15357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15369,7 +15369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15381,7 +15381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15393,7 +15393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15405,7 +15405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15417,7 +15417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15429,7 +15429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15441,7 +15441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15453,7 +15453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15465,7 +15465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15477,7 +15477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15489,7 +15489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15501,7 +15501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15513,7 +15513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15525,7 +15525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15537,7 +15537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15549,7 +15549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15561,7 +15561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15573,7 +15573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15585,7 +15585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15597,7 +15597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15609,7 +15609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15621,7 +15621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15633,7 +15633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15645,7 +15645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15657,7 +15657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Hyundai',
@@ -15669,7 +15669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Infiniti',
@@ -15681,7 +15681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Infiniti',
@@ -15693,7 +15693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Infiniti',
@@ -15705,7 +15705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Isuzu',
@@ -15717,7 +15717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15729,7 +15729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15741,7 +15741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15753,7 +15753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15765,7 +15765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15777,7 +15777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15789,7 +15789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15801,7 +15801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15813,7 +15813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15825,7 +15825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15837,7 +15837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15849,7 +15849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15861,7 +15861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15873,7 +15873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15885,7 +15885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15897,7 +15897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15909,7 +15909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15921,7 +15921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15933,7 +15933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15945,7 +15945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15957,7 +15957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15969,7 +15969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15981,7 +15981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -15993,7 +15993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -16005,7 +16005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -16017,7 +16017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -16029,7 +16029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -16041,7 +16041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jaguar',
@@ -16053,7 +16053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16065,7 +16065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16077,7 +16077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16089,7 +16089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16101,7 +16101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16113,7 +16113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16125,7 +16125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16137,7 +16137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16149,7 +16149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16161,7 +16161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16173,7 +16173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16185,7 +16185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16197,7 +16197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16209,7 +16209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16221,7 +16221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16233,7 +16233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16245,7 +16245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Bitte Anfragen,- Euro inkl. MwSt.'
+        preis: 'Bitte Anfragen.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16257,7 +16257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Bitte Anfragen,- Euro inkl. MwSt.'
+        preis: 'Bitte Anfragen.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16269,7 +16269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16281,7 +16281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16293,7 +16293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16305,7 +16305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16317,7 +16317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16329,7 +16329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16341,7 +16341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16353,7 +16353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16365,7 +16365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16377,7 +16377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16389,7 +16389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16401,7 +16401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16413,7 +16413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16425,7 +16425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16437,7 +16437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16449,7 +16449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16461,7 +16461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16473,7 +16473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16485,7 +16485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16497,7 +16497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16509,7 +16509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16521,7 +16521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16533,7 +16533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16545,7 +16545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16557,7 +16557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16569,7 +16569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16581,7 +16581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16593,7 +16593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16605,7 +16605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Jeep',
@@ -16617,7 +16617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16629,7 +16629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16641,7 +16641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16653,7 +16653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16665,7 +16665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16677,7 +16677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16689,7 +16689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16701,7 +16701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16713,7 +16713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16725,7 +16725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16737,7 +16737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16749,7 +16749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16761,7 +16761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16773,7 +16773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16785,7 +16785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16797,7 +16797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16809,7 +16809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16821,7 +16821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16833,7 +16833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16845,7 +16845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16857,7 +16857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16869,7 +16869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16881,7 +16881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16893,7 +16893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16905,7 +16905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16917,7 +16917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16929,7 +16929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16941,7 +16941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16953,7 +16953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16965,7 +16965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16977,7 +16977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -16989,7 +16989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -17001,7 +17001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -17013,7 +17013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -17025,7 +17025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -17037,7 +17037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -17049,7 +17049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -17061,7 +17061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -17073,7 +17073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Kia',
@@ -17085,7 +17085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'KTM',
@@ -17097,7 +17097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'KTM',
@@ -17109,7 +17109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: ' PS - 65 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lamborghini',
@@ -17121,7 +17121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1399,- Euro inkl. MwSt.'
+        preis: '1399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lamborghini',
@@ -17133,7 +17133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1399,- Euro inkl. MwSt.'
+        preis: '1399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lamborghini',
@@ -17145,7 +17145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1599,- Euro inkl. MwSt.'
+        preis: '1599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lamborghini',
@@ -17157,7 +17157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1599,- Euro inkl. MwSt.'
+        preis: '1599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lamborghini',
@@ -17169,7 +17169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1599,- Euro inkl. MwSt.'
+        preis: '1599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lamborghini',
@@ -17181,7 +17181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '2999,- Euro inkl. MwSt.'
+        preis: '2999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lamborghini',
@@ -17193,7 +17193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '2999,- Euro inkl. MwSt.'
+        preis: '2999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lamborghini',
@@ -17205,7 +17205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '2999,- Euro inkl. MwSt.'
+        preis: '2999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17217,7 +17217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17229,7 +17229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17241,7 +17241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17253,7 +17253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17265,7 +17265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17277,7 +17277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17289,7 +17289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17301,7 +17301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17313,7 +17313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17325,7 +17325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17337,7 +17337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17349,7 +17349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17361,7 +17361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17373,7 +17373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17385,7 +17385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17397,7 +17397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17409,7 +17409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17421,7 +17421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17433,7 +17433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17445,7 +17445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17457,7 +17457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17469,7 +17469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17481,7 +17481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17493,7 +17493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17505,7 +17505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17517,7 +17517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17529,7 +17529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17541,7 +17541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17553,7 +17553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17565,7 +17565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17577,7 +17577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17589,7 +17589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17601,7 +17601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17613,7 +17613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17625,7 +17625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17637,7 +17637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17649,7 +17649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17661,7 +17661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17673,7 +17673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17685,7 +17685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17697,7 +17697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17709,7 +17709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17721,7 +17721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17733,7 +17733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17745,7 +17745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lancia',
@@ -17757,7 +17757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17769,7 +17769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17781,7 +17781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17793,7 +17793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17805,7 +17805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17817,7 +17817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17829,7 +17829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17841,7 +17841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17853,7 +17853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17865,7 +17865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17877,7 +17877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17889,7 +17889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17901,7 +17901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17913,7 +17913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17925,7 +17925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17937,7 +17937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17949,7 +17949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17961,7 +17961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17973,7 +17973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17985,7 +17985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -17997,7 +17997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -18009,7 +18009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -18021,7 +18021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -18033,7 +18033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -18045,7 +18045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -18057,7 +18057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -18069,7 +18069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Land Rover',
@@ -18081,7 +18081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18093,7 +18093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18105,7 +18105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18117,7 +18117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18129,7 +18129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18141,7 +18141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18153,7 +18153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18165,7 +18165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18177,7 +18177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18189,7 +18189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lexus',
@@ -18201,7 +18201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Lotus',
@@ -18213,7 +18213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18225,7 +18225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18237,7 +18237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18249,7 +18249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18261,7 +18261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18273,7 +18273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18285,7 +18285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18297,7 +18297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18309,7 +18309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18321,7 +18321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maserati',
@@ -18333,7 +18333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maybach',
@@ -18345,7 +18345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maybach',
@@ -18357,7 +18357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maybach',
@@ -18369,7 +18369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maybach',
@@ -18381,7 +18381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maybach',
@@ -18393,7 +18393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Maybach',
@@ -18405,7 +18405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18417,7 +18417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18429,7 +18429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18441,7 +18441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18453,7 +18453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18465,7 +18465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18477,7 +18477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18489,7 +18489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18501,7 +18501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18513,7 +18513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18525,7 +18525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18537,7 +18537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18549,7 +18549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18561,7 +18561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18573,7 +18573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18585,7 +18585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18597,7 +18597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18609,7 +18609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18621,7 +18621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18633,7 +18633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18645,7 +18645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18657,7 +18657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18669,7 +18669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18681,7 +18681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18693,7 +18693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18705,7 +18705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18717,7 +18717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18729,7 +18729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18741,7 +18741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18753,7 +18753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18765,7 +18765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18777,7 +18777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18789,7 +18789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18801,7 +18801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18813,7 +18813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18825,7 +18825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18837,7 +18837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18849,7 +18849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18861,7 +18861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18873,7 +18873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18885,7 +18885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18897,7 +18897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18909,7 +18909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18921,7 +18921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18933,7 +18933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18945,7 +18945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18957,7 +18957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18969,7 +18969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mazda',
@@ -18981,7 +18981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -18993,7 +18993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19005,7 +19005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19017,7 +19017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19029,7 +19029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19041,7 +19041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19053,7 +19053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19065,7 +19065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '51 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19077,7 +19077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19089,7 +19089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19101,7 +19101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19113,7 +19113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19125,7 +19125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19137,7 +19137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '53 PS - 39 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19149,7 +19149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19161,7 +19161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '56 PS - 41 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19173,7 +19173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19185,7 +19185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19197,7 +19197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19209,7 +19209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19221,7 +19221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19233,7 +19233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19245,7 +19245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19257,7 +19257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19269,7 +19269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19281,7 +19281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '51 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19293,7 +19293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19305,7 +19305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19317,7 +19317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19329,7 +19329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19341,7 +19341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19353,7 +19353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '53 PS - 39 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19365,7 +19365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19377,7 +19377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '56 PS - 41 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19389,7 +19389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19401,7 +19401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19413,7 +19413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19425,7 +19425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19437,7 +19437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19449,7 +19449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19461,7 +19461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19473,7 +19473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19485,7 +19485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19497,7 +19497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19509,7 +19509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19521,7 +19521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19533,7 +19533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19545,7 +19545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19557,7 +19557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19569,7 +19569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19581,7 +19581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19593,7 +19593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19605,7 +19605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19617,7 +19617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19629,7 +19629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19641,7 +19641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19653,7 +19653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19665,7 +19665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19677,7 +19677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19689,7 +19689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19701,7 +19701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19713,7 +19713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19725,7 +19725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19737,7 +19737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19749,7 +19749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19761,7 +19761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19773,7 +19773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19785,7 +19785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19797,7 +19797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19809,7 +19809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19821,7 +19821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '53 PS - 39 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19833,7 +19833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '113 PS - 83 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19845,7 +19845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '53 PS - 39 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19857,7 +19857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19869,7 +19869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19881,7 +19881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19893,7 +19893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19905,7 +19905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19917,7 +19917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '62 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19929,7 +19929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19941,7 +19941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19953,7 +19953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19965,7 +19965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19977,7 +19977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '77 PS - 57 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -19989,7 +19989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '43 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20001,7 +20001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '114 PS - 84 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20013,7 +20013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '80 PS - 59 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20025,7 +20025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20037,7 +20037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20049,7 +20049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20061,7 +20061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20073,7 +20073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '51 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20085,7 +20085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20097,7 +20097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20109,7 +20109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20121,7 +20121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20133,7 +20133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20145,7 +20145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '53 PS - 39 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20157,7 +20157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20169,7 +20169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '56 PS - 41 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20181,7 +20181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20193,7 +20193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20205,7 +20205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20217,7 +20217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20229,7 +20229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20241,7 +20241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20253,7 +20253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20265,7 +20265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20277,7 +20277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20289,7 +20289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20301,7 +20301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20313,7 +20313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20325,7 +20325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20337,7 +20337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20349,7 +20349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20361,7 +20361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20373,7 +20373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20385,7 +20385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20397,7 +20397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20409,7 +20409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20421,7 +20421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20433,7 +20433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20445,7 +20445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20457,7 +20457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '112 PS - 82 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20469,7 +20469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '115 PS - 85 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20481,7 +20481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '83 PS - 61 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20493,7 +20493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '143 PS - 105 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20505,7 +20505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20517,7 +20517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20529,7 +20529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20541,7 +20541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20553,7 +20553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20565,7 +20565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20577,7 +20577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20589,7 +20589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20601,7 +20601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20613,7 +20613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20625,7 +20625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20637,7 +20637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20649,7 +20649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20661,7 +20661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20673,7 +20673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20685,7 +20685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20697,7 +20697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20709,7 +20709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20721,7 +20721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20733,7 +20733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20745,7 +20745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20757,7 +20757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20769,7 +20769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20781,7 +20781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20793,7 +20793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20805,7 +20805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20817,7 +20817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20829,7 +20829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20841,7 +20841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20853,7 +20853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20865,7 +20865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20877,7 +20877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20889,7 +20889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20901,7 +20901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20913,7 +20913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20925,7 +20925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20937,7 +20937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20949,7 +20949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20961,7 +20961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20973,7 +20973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20985,7 +20985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '102 PS - 75 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -20997,7 +20997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '75 PS - 55 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21009,7 +21009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '95 PS - 70 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21021,7 +21021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '68 PS - 50 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21033,7 +21033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21045,7 +21045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21057,7 +21057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21069,7 +21069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21081,7 +21081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21093,7 +21093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '77 PS - 57 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21105,7 +21105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '112 PS - 82 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21117,7 +21117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21129,7 +21129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21141,7 +21141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '115 PS - 85 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21153,7 +21153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '75 PS - 55 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21165,7 +21165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21177,7 +21177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21189,7 +21189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21201,7 +21201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '60 PS - 44 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21213,7 +21213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21225,7 +21225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21237,7 +21237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21249,7 +21249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '77 PS - 57 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21261,7 +21261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21273,7 +21273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '109 PS - 80 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1499,- Euro inkl. MwSt.'
+        preis: '1499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21285,7 +21285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '68 PS - 50 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1499,- Euro inkl. MwSt.'
+        preis: '1499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21297,7 +21297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21309,7 +21309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21321,7 +21321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21333,7 +21333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21345,7 +21345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21357,7 +21357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21369,7 +21369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21381,7 +21381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21393,7 +21393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '63 PS - 46 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21405,7 +21405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '98 PS - 72 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1499,- Euro inkl. MwSt.'
+        preis: '1499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21417,7 +21417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21429,7 +21429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21441,7 +21441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21453,7 +21453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21465,7 +21465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21477,7 +21477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21489,7 +21489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '115 PS - 85 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage,- Euro inkl. MwSt.'
+        preis: 'Anfrage.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21501,7 +21501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '75 PS - 55 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21513,7 +21513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21525,7 +21525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21537,7 +21537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21549,7 +21549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21561,7 +21561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21573,7 +21573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21585,7 +21585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21597,7 +21597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21609,7 +21609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21621,7 +21621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21633,7 +21633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21645,7 +21645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21657,7 +21657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21669,7 +21669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21681,7 +21681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21693,7 +21693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21705,7 +21705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21717,7 +21717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21729,7 +21729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21741,7 +21741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21753,7 +21753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21765,7 +21765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21777,7 +21777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21789,7 +21789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21801,7 +21801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21813,7 +21813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21825,7 +21825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21837,7 +21837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21849,7 +21849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21861,7 +21861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21873,7 +21873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21885,7 +21885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21897,7 +21897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21909,7 +21909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21921,7 +21921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21933,7 +21933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21945,7 +21945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21957,7 +21957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21969,7 +21969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21981,7 +21981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -21993,7 +21993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22005,7 +22005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22017,7 +22017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22029,7 +22029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22041,7 +22041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22053,7 +22053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22065,7 +22065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22077,7 +22077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22089,7 +22089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22101,7 +22101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22113,7 +22113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22125,7 +22125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22137,7 +22137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22149,7 +22149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22161,7 +22161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22173,7 +22173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22185,7 +22185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22197,7 +22197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22209,7 +22209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22221,7 +22221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22233,7 +22233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22245,7 +22245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '44 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22257,7 +22257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22269,7 +22269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22281,7 +22281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22293,7 +22293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22305,7 +22305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22317,7 +22317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22329,7 +22329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22341,7 +22341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22353,7 +22353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22365,7 +22365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22377,7 +22377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22389,7 +22389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22401,7 +22401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22413,7 +22413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22425,7 +22425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22437,7 +22437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22449,7 +22449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22461,7 +22461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22473,7 +22473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22485,7 +22485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22497,7 +22497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22509,7 +22509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22521,7 +22521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22533,7 +22533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22545,7 +22545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22557,7 +22557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22569,7 +22569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22581,7 +22581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22593,7 +22593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22605,7 +22605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22617,7 +22617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22629,7 +22629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22641,7 +22641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22653,7 +22653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22665,7 +22665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22677,7 +22677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22689,7 +22689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22701,7 +22701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22713,7 +22713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22725,7 +22725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22737,7 +22737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22749,7 +22749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22761,7 +22761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22773,7 +22773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22785,7 +22785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '58 PS - 43 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22797,7 +22797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '58 PS - 43 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1999,- Euro inkl. MwSt.'
+        preis: '1999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22809,7 +22809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1399,- Euro inkl. MwSt.'
+        preis: '1399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22821,7 +22821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22833,7 +22833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '58 PS - 43 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22845,7 +22845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22857,7 +22857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22869,7 +22869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22881,7 +22881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22893,7 +22893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22905,7 +22905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22917,7 +22917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22929,7 +22929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22941,7 +22941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22953,7 +22953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22965,7 +22965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22977,7 +22977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -22989,7 +22989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23001,7 +23001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23013,7 +23013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23025,7 +23025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23037,7 +23037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23049,7 +23049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23061,7 +23061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23073,7 +23073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23085,7 +23085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23097,7 +23097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23109,7 +23109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23121,7 +23121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23133,7 +23133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23145,7 +23145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23157,7 +23157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23169,7 +23169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23181,7 +23181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23193,7 +23193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23205,7 +23205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23217,7 +23217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23229,7 +23229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23241,7 +23241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23253,7 +23253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23265,7 +23265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23277,7 +23277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23289,7 +23289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23301,7 +23301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23313,7 +23313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23325,7 +23325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '7 PS - 5 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23337,7 +23337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '7 PS - 5 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23349,7 +23349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23361,7 +23361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23373,7 +23373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23385,7 +23385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23397,7 +23397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23409,7 +23409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23421,7 +23421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23433,7 +23433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23445,7 +23445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23457,7 +23457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23469,7 +23469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23481,7 +23481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23493,7 +23493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23505,7 +23505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23517,7 +23517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23529,7 +23529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23541,7 +23541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23553,7 +23553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23565,7 +23565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23577,7 +23577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23589,7 +23589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23601,7 +23601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23613,7 +23613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23625,7 +23625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte Anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Bitte Anfragen,- Euro inkl. MwSt.'
+        preis: 'Bitte Anfragen.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23637,7 +23637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23649,7 +23649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23661,7 +23661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23673,7 +23673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mercedes-Benz',
@@ -23685,7 +23685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23697,7 +23697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23709,7 +23709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23721,7 +23721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23733,7 +23733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23745,7 +23745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23757,7 +23757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23769,7 +23769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23781,7 +23781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23793,7 +23793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23805,7 +23805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23817,7 +23817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23829,7 +23829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23841,7 +23841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23853,7 +23853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23865,7 +23865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23877,7 +23877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23889,7 +23889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23901,7 +23901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23913,7 +23913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23925,7 +23925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23937,7 +23937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23949,7 +23949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23961,7 +23961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23973,7 +23973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mini',
@@ -23985,7 +23985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -23997,7 +23997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24009,7 +24009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24021,7 +24021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24033,7 +24033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24045,7 +24045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24057,7 +24057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24069,7 +24069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24081,7 +24081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24093,7 +24093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24105,7 +24105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24117,7 +24117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24129,7 +24129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24141,7 +24141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24153,7 +24153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24165,7 +24165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24177,7 +24177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24189,7 +24189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24201,7 +24201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24213,7 +24213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24225,7 +24225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24237,7 +24237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24249,7 +24249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24261,7 +24261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24273,7 +24273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24285,7 +24285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24297,7 +24297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24309,7 +24309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte Anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Bitte Anfragen,- Euro inkl. MwSt.'
+        preis: 'Bitte Anfragen.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24321,7 +24321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24333,7 +24333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24345,7 +24345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24357,7 +24357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24369,7 +24369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24381,7 +24381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24393,7 +24393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24405,7 +24405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24417,7 +24417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24429,7 +24429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24441,7 +24441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24453,7 +24453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24465,7 +24465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24477,7 +24477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24489,7 +24489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24501,7 +24501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24513,7 +24513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24525,7 +24525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24537,7 +24537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24549,7 +24549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24561,7 +24561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24573,7 +24573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24585,7 +24585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24597,7 +24597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24609,7 +24609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24621,7 +24621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24633,7 +24633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Mitsubishi',
@@ -24645,7 +24645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24657,7 +24657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24669,7 +24669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '60 PS - 44 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24681,7 +24681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '7 PS - 5 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24693,7 +24693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24705,7 +24705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24717,7 +24717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24729,7 +24729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24741,7 +24741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24753,7 +24753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24765,7 +24765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24777,7 +24777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24789,7 +24789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '69 PS - 50 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24801,7 +24801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24813,7 +24813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24825,7 +24825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24837,7 +24837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24849,7 +24849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24861,7 +24861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24873,7 +24873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24885,7 +24885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24897,7 +24897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24909,7 +24909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24921,7 +24921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24933,7 +24933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24945,7 +24945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24957,7 +24957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24969,7 +24969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24981,7 +24981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -24993,7 +24993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25005,7 +25005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25017,7 +25017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25029,7 +25029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25041,7 +25041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25053,7 +25053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25065,7 +25065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25077,7 +25077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25089,7 +25089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25101,7 +25101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25113,7 +25113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25125,7 +25125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25137,7 +25137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25149,7 +25149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25161,7 +25161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25173,7 +25173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25185,7 +25185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25197,7 +25197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25209,7 +25209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25221,7 +25221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25233,7 +25233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25245,7 +25245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25257,7 +25257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25269,7 +25269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25281,7 +25281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25293,7 +25293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25305,7 +25305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25317,7 +25317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25329,7 +25329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25341,7 +25341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Nissan',
@@ -25353,7 +25353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25365,7 +25365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25377,7 +25377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25389,7 +25389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25401,7 +25401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25413,7 +25413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25425,7 +25425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25437,7 +25437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25449,7 +25449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25461,7 +25461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25473,7 +25473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25485,7 +25485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25497,7 +25497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25509,7 +25509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25521,7 +25521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25533,7 +25533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25545,7 +25545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25557,7 +25557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25569,7 +25569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25581,7 +25581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25593,7 +25593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25605,7 +25605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25617,7 +25617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25629,7 +25629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25641,7 +25641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25653,7 +25653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25665,7 +25665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25677,7 +25677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25689,7 +25689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25701,7 +25701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25713,7 +25713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25725,7 +25725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25737,7 +25737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25749,7 +25749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25761,7 +25761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25773,7 +25773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25785,7 +25785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25797,7 +25797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25809,7 +25809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25821,7 +25821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25833,7 +25833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25845,7 +25845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25857,7 +25857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25869,7 +25869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25881,7 +25881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25893,7 +25893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25905,7 +25905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25917,7 +25917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25929,7 +25929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25941,7 +25941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25953,7 +25953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25965,7 +25965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25977,7 +25977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -25989,7 +25989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26001,7 +26001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26013,7 +26013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26025,7 +26025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26037,7 +26037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26049,7 +26049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26061,7 +26061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26073,7 +26073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26085,7 +26085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26097,7 +26097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26109,7 +26109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26121,7 +26121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26133,7 +26133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26145,7 +26145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26157,7 +26157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26169,7 +26169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26181,7 +26181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26193,7 +26193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26205,7 +26205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26217,7 +26217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26229,7 +26229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26241,7 +26241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26253,7 +26253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26265,7 +26265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26277,7 +26277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26289,7 +26289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26301,7 +26301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26313,7 +26313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26325,7 +26325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26337,7 +26337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26349,7 +26349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26361,7 +26361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26373,7 +26373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26385,7 +26385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26397,7 +26397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26409,7 +26409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26421,7 +26421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26433,7 +26433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26445,7 +26445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26457,7 +26457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26469,7 +26469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26481,7 +26481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26493,7 +26493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26505,7 +26505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26517,7 +26517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26529,7 +26529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26541,7 +26541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26553,7 +26553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26565,7 +26565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26577,7 +26577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26589,7 +26589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26601,7 +26601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26613,7 +26613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26625,7 +26625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26637,7 +26637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26649,7 +26649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '105 PS - 77 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26661,7 +26661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26673,7 +26673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26685,7 +26685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26697,7 +26697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26709,7 +26709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26721,7 +26721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26733,7 +26733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26745,7 +26745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26757,7 +26757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26769,7 +26769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26781,7 +26781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26793,7 +26793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26805,7 +26805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26817,7 +26817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26829,7 +26829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26841,7 +26841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26853,7 +26853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26865,7 +26865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26877,7 +26877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26889,7 +26889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26901,7 +26901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26913,7 +26913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26925,7 +26925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26937,7 +26937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26949,7 +26949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26961,7 +26961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26973,7 +26973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26985,7 +26985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -26997,7 +26997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27009,7 +27009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27021,7 +27021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27033,7 +27033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27045,7 +27045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27057,7 +27057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27069,7 +27069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27081,7 +27081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27093,7 +27093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27105,7 +27105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27117,7 +27117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27129,7 +27129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27141,7 +27141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27153,7 +27153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27165,7 +27165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27177,7 +27177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27189,7 +27189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27201,7 +27201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27213,7 +27213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27225,7 +27225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27237,7 +27237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27249,7 +27249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27261,7 +27261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27273,7 +27273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27285,7 +27285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27297,7 +27297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27309,7 +27309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27321,7 +27321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27333,7 +27333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27345,7 +27345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27357,7 +27357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27369,7 +27369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27381,7 +27381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27393,7 +27393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27405,7 +27405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27417,7 +27417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27429,7 +27429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27441,7 +27441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27453,7 +27453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27465,7 +27465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27477,7 +27477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Opel',
@@ -27489,7 +27489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27501,7 +27501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27513,7 +27513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27525,7 +27525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27537,7 +27537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27549,7 +27549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27561,7 +27561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27573,7 +27573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27585,7 +27585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27597,7 +27597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27609,7 +27609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27621,7 +27621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27633,7 +27633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27645,7 +27645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27657,7 +27657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27669,7 +27669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27681,7 +27681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27693,7 +27693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27705,7 +27705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27717,7 +27717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27729,7 +27729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27741,7 +27741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27753,7 +27753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27765,7 +27765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27777,7 +27777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27789,7 +27789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27801,7 +27801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27813,7 +27813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27825,7 +27825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27837,7 +27837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27849,7 +27849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27861,7 +27861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27873,7 +27873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27885,7 +27885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27897,7 +27897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27909,7 +27909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27921,7 +27921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27933,7 +27933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27945,7 +27945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27957,7 +27957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27969,7 +27969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27981,7 +27981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -27993,7 +27993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28005,7 +28005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28017,7 +28017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28029,7 +28029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28041,7 +28041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28053,7 +28053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28065,7 +28065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28077,7 +28077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28089,7 +28089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28101,7 +28101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28113,7 +28113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28125,7 +28125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28137,7 +28137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28149,7 +28149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28161,7 +28161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28173,7 +28173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28185,7 +28185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28197,7 +28197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28209,7 +28209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28221,7 +28221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28233,7 +28233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28245,7 +28245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28257,7 +28257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28269,7 +28269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28281,7 +28281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28293,7 +28293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28305,7 +28305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28317,7 +28317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28329,7 +28329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28341,7 +28341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28353,7 +28353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28365,7 +28365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28377,7 +28377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28389,7 +28389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28401,7 +28401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28413,7 +28413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28425,7 +28425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28437,7 +28437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28449,7 +28449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28461,7 +28461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28473,7 +28473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28485,7 +28485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28497,7 +28497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28509,7 +28509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28521,7 +28521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28533,7 +28533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28545,7 +28545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28557,7 +28557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28569,7 +28569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28581,7 +28581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28593,7 +28593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28605,7 +28605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28617,7 +28617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28629,7 +28629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28641,7 +28641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28653,7 +28653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28665,7 +28665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28677,7 +28677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28689,7 +28689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28701,7 +28701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28713,7 +28713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28725,7 +28725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28737,7 +28737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28749,7 +28749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28761,7 +28761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28773,7 +28773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28785,7 +28785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28797,7 +28797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28809,7 +28809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28821,7 +28821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28833,7 +28833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28845,7 +28845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28857,7 +28857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28869,7 +28869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28881,7 +28881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28893,7 +28893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28905,7 +28905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28917,7 +28917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28929,7 +28929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28941,7 +28941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28953,7 +28953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28965,7 +28965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28977,7 +28977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -28989,7 +28989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29001,7 +29001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29013,7 +29013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29025,7 +29025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29037,7 +29037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29049,7 +29049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29061,7 +29061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29073,7 +29073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29085,7 +29085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29097,7 +29097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29109,7 +29109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Peugeot',
@@ -29121,7 +29121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29133,7 +29133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29145,7 +29145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29157,7 +29157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29169,7 +29169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29181,7 +29181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29193,7 +29193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29205,7 +29205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29217,7 +29217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29229,7 +29229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29241,7 +29241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29253,7 +29253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29265,7 +29265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29277,7 +29277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29289,7 +29289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29301,7 +29301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29313,7 +29313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29325,7 +29325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29337,7 +29337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29349,7 +29349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29361,7 +29361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29373,7 +29373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage!,- Euro inkl. MwSt.'
+        preis: 'Anfrage!.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29385,7 +29385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage!,- Euro inkl. MwSt.'
+        preis: 'Anfrage!.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29397,7 +29397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage!,- Euro inkl. MwSt.'
+        preis: 'Anfrage!.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29409,7 +29409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Anfrage!,- Euro inkl. MwSt.'
+        preis: 'Anfrage!.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29421,7 +29421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29433,7 +29433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29445,7 +29445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29457,7 +29457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29469,7 +29469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29481,7 +29481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29493,7 +29493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29505,7 +29505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29517,7 +29517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29529,7 +29529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29541,7 +29541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29553,7 +29553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29565,7 +29565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29577,7 +29577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29589,7 +29589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29601,7 +29601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: ' PS - 315 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29613,7 +29613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29625,7 +29625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: ' PS - 430 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29637,7 +29637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29649,7 +29649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29661,7 +29661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29673,7 +29673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1299,- Euro inkl. MwSt.'
+        preis: '1299.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29685,7 +29685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29697,7 +29697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29709,7 +29709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29721,7 +29721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '7 PS - 5 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29733,7 +29733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29745,7 +29745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '7 PS - 5 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29757,7 +29757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29769,7 +29769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29781,7 +29781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29793,7 +29793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29805,7 +29805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '899,- Euro inkl. MwSt.'
+        preis: '899.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29817,7 +29817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29829,7 +29829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29841,7 +29841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29853,7 +29853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29865,7 +29865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29877,7 +29877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29889,7 +29889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '999,- Euro inkl. MwSt.'
+        preis: '999.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29901,7 +29901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1199,- Euro inkl. MwSt.'
+        preis: '1199.- Euro inkl. MwSt.'
     },
     {
         marke: 'Porsche',
@@ -29913,7 +29913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '1399,- Euro inkl. MwSt.'
+        preis: '1399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -29925,7 +29925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -29937,7 +29937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -29949,7 +29949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -29961,7 +29961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -29973,7 +29973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -29985,7 +29985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -29997,7 +29997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30009,7 +30009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30021,7 +30021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30033,7 +30033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30045,7 +30045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30057,7 +30057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30069,7 +30069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30081,7 +30081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30093,7 +30093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30105,7 +30105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30117,7 +30117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30129,7 +30129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30141,7 +30141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30153,7 +30153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30165,7 +30165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30177,7 +30177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30189,7 +30189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30201,7 +30201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30213,7 +30213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30225,7 +30225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30237,7 +30237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30249,7 +30249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30261,7 +30261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30273,7 +30273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30285,7 +30285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30297,7 +30297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30309,7 +30309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30321,7 +30321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30333,7 +30333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30345,7 +30345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30357,7 +30357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30369,7 +30369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30381,7 +30381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30393,7 +30393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30405,7 +30405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30417,7 +30417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30429,7 +30429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30441,7 +30441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30453,7 +30453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30465,7 +30465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30477,7 +30477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30489,7 +30489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30501,7 +30501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30513,7 +30513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30525,7 +30525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30537,7 +30537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30549,7 +30549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30561,7 +30561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30573,7 +30573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30585,7 +30585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30597,7 +30597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30609,7 +30609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30621,7 +30621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30633,7 +30633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30645,7 +30645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30657,7 +30657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30669,7 +30669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30681,7 +30681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30693,7 +30693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30705,7 +30705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30717,7 +30717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30729,7 +30729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30741,7 +30741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30753,7 +30753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30765,7 +30765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30777,7 +30777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30789,7 +30789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30801,7 +30801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30813,7 +30813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30825,7 +30825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30837,7 +30837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30849,7 +30849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30861,7 +30861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30873,7 +30873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30885,7 +30885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30897,7 +30897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30909,7 +30909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30921,7 +30921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30933,7 +30933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30945,7 +30945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30957,7 +30957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30969,7 +30969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30981,7 +30981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -30993,7 +30993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31005,7 +31005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31017,7 +31017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31029,7 +31029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31041,7 +31041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31053,7 +31053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31065,7 +31065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31077,7 +31077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31089,7 +31089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31101,7 +31101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31113,7 +31113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31125,7 +31125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31137,7 +31137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31149,7 +31149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31161,7 +31161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31173,7 +31173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31185,7 +31185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31197,7 +31197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31209,7 +31209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31221,7 +31221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31233,7 +31233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31245,7 +31245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31257,7 +31257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31269,7 +31269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31281,7 +31281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31293,7 +31293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31305,7 +31305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31317,7 +31317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31329,7 +31329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31341,7 +31341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31353,7 +31353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31365,7 +31365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31377,7 +31377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31389,7 +31389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31401,7 +31401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31413,7 +31413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31425,7 +31425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31437,7 +31437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31449,7 +31449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31461,7 +31461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31473,7 +31473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31485,7 +31485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31497,7 +31497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31509,7 +31509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31521,7 +31521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31533,7 +31533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31545,7 +31545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31557,7 +31557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31569,7 +31569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31581,7 +31581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31593,7 +31593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31605,7 +31605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31617,7 +31617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31629,7 +31629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31641,7 +31641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31653,7 +31653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31665,7 +31665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31677,7 +31677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31689,7 +31689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31701,7 +31701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31713,7 +31713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31725,7 +31725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31737,7 +31737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31749,7 +31749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31761,7 +31761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31773,7 +31773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31785,7 +31785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31797,7 +31797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31809,7 +31809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31821,7 +31821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31833,7 +31833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31845,7 +31845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31857,7 +31857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31869,7 +31869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31881,7 +31881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31893,7 +31893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31905,7 +31905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31917,7 +31917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31929,7 +31929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31941,7 +31941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31953,7 +31953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31965,7 +31965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31977,7 +31977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -31989,7 +31989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32001,7 +32001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32013,7 +32013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32025,7 +32025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32037,7 +32037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32049,7 +32049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32061,7 +32061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32073,7 +32073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32085,7 +32085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32097,7 +32097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32109,7 +32109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32121,7 +32121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32133,7 +32133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32145,7 +32145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32157,7 +32157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32169,7 +32169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Renault',
@@ -32181,7 +32181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: ' PS - 47 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32193,7 +32193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32205,7 +32205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32217,7 +32217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32229,7 +32229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32241,7 +32241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32253,7 +32253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32265,7 +32265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32277,7 +32277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32289,7 +32289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32301,7 +32301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32313,7 +32313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32325,7 +32325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32337,7 +32337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32349,7 +32349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32361,7 +32361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32373,7 +32373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32385,7 +32385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32397,7 +32397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Rover',
@@ -32409,7 +32409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32421,7 +32421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32433,7 +32433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32445,7 +32445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32457,7 +32457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32469,7 +32469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32481,7 +32481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32493,7 +32493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32505,7 +32505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32517,7 +32517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32529,7 +32529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32541,7 +32541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32553,7 +32553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32565,7 +32565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32577,7 +32577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32589,7 +32589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Saab',
@@ -32601,7 +32601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32613,7 +32613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32625,7 +32625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32637,7 +32637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32649,7 +32649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32661,7 +32661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32673,7 +32673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32685,7 +32685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32697,7 +32697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32709,7 +32709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32721,7 +32721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32733,7 +32733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32745,7 +32745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32757,7 +32757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32769,7 +32769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32781,7 +32781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32793,7 +32793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32805,7 +32805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32817,7 +32817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32829,7 +32829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32841,7 +32841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32853,7 +32853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32865,7 +32865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32877,7 +32877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32889,7 +32889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '5 PS - 4 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32901,7 +32901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32913,7 +32913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32925,7 +32925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32937,7 +32937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32949,7 +32949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32961,7 +32961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32973,7 +32973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32985,7 +32985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -32997,7 +32997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33009,7 +33009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33021,7 +33021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33033,7 +33033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33045,7 +33045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33057,7 +33057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33069,7 +33069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33081,7 +33081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33093,7 +33093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33105,7 +33105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33117,7 +33117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33129,7 +33129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33141,7 +33141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33153,7 +33153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33165,7 +33165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33177,7 +33177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '39 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33189,7 +33189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33201,7 +33201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33213,7 +33213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33225,7 +33225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33237,7 +33237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33249,7 +33249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33261,7 +33261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33273,7 +33273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33285,7 +33285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33297,7 +33297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33309,7 +33309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33321,7 +33321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33333,7 +33333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33345,7 +33345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '23 PS - 17 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33357,7 +33357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33369,7 +33369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33381,7 +33381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33393,7 +33393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33405,7 +33405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33417,7 +33417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33429,7 +33429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33441,7 +33441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33453,7 +33453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33465,7 +33465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33477,7 +33477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33489,7 +33489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33501,7 +33501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33513,7 +33513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33525,7 +33525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33537,7 +33537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33549,7 +33549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33561,7 +33561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33573,7 +33573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33585,7 +33585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33597,7 +33597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33609,7 +33609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33621,7 +33621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33633,7 +33633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33645,7 +33645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33657,7 +33657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33669,7 +33669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33681,7 +33681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33693,7 +33693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33705,7 +33705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33717,7 +33717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33729,7 +33729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33741,7 +33741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33753,7 +33753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33765,7 +33765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33777,7 +33777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33789,7 +33789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33801,7 +33801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33813,7 +33813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33825,7 +33825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33837,7 +33837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33849,7 +33849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33861,7 +33861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33873,7 +33873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33885,7 +33885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33897,7 +33897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33909,7 +33909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33921,7 +33921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33933,7 +33933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33945,7 +33945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33957,7 +33957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33969,7 +33969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33981,7 +33981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -33993,7 +33993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34005,7 +34005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34017,7 +34017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34029,7 +34029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34041,7 +34041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34053,7 +34053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34065,7 +34065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34077,7 +34077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34089,7 +34089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34101,7 +34101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34113,7 +34113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34125,7 +34125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34137,7 +34137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34149,7 +34149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34161,7 +34161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Seat',
@@ -34173,7 +34173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34185,7 +34185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34197,7 +34197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34209,7 +34209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34221,7 +34221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34233,7 +34233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34245,7 +34245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34257,7 +34257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34269,7 +34269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34281,7 +34281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34293,7 +34293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34305,7 +34305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34317,7 +34317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34329,7 +34329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34341,7 +34341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34353,7 +34353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34365,7 +34365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34377,7 +34377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34389,7 +34389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34401,7 +34401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34413,7 +34413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34425,7 +34425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34437,7 +34437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34449,7 +34449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34461,7 +34461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34473,7 +34473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34485,7 +34485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34497,7 +34497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34509,7 +34509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34521,7 +34521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34533,7 +34533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34545,7 +34545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34557,7 +34557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34569,7 +34569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34581,7 +34581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34593,7 +34593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34605,7 +34605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34617,7 +34617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34629,7 +34629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34641,7 +34641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34653,7 +34653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34665,7 +34665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34677,7 +34677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34689,7 +34689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34701,7 +34701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34713,7 +34713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34725,7 +34725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34737,7 +34737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34749,7 +34749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34761,7 +34761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34773,7 +34773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34785,7 +34785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34797,7 +34797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34809,7 +34809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34821,7 +34821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34833,7 +34833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34845,7 +34845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34857,7 +34857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34869,7 +34869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34881,7 +34881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34893,7 +34893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34905,7 +34905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34917,7 +34917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34929,7 +34929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34941,7 +34941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34953,7 +34953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34965,7 +34965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34977,7 +34977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -34989,7 +34989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35001,7 +35001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35013,7 +35013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35025,7 +35025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35037,7 +35037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35049,7 +35049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35061,7 +35061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35073,7 +35073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35085,7 +35085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35097,7 +35097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35109,7 +35109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35121,7 +35121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35133,7 +35133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Skoda',
@@ -35145,7 +35145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35157,7 +35157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35169,7 +35169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35181,7 +35181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35193,7 +35193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35205,7 +35205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35217,7 +35217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35229,7 +35229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35241,7 +35241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35253,7 +35253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35265,7 +35265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '25 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35277,7 +35277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35289,7 +35289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35301,7 +35301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35313,7 +35313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35325,7 +35325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Smart',
@@ -35337,7 +35337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'SsangYong',
@@ -35349,7 +35349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'SsangYong',
@@ -35361,7 +35361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'SsangYong',
@@ -35373,7 +35373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'SsangYong',
@@ -35385,7 +35385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'SsangYong',
@@ -35397,7 +35397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'SsangYong',
@@ -35409,7 +35409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Subaru',
@@ -35421,7 +35421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Subaru',
@@ -35433,7 +35433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Subaru',
@@ -35445,7 +35445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '33 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Subaru',
@@ -35457,7 +35457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: 'Bitte Anfragen',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: 'Bitte Anfragen,- Euro inkl. MwSt.'
+        preis: 'Bitte Anfragen.- Euro inkl. MwSt.'
     },
     {
         marke: 'Subaru',
@@ -35469,7 +35469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Subaru',
@@ -35481,7 +35481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '799,- Euro inkl. MwSt.'
+        preis: '799.- Euro inkl. MwSt.'
     },
     {
         marke: 'Subaru',
@@ -35493,7 +35493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Subaru',
@@ -35505,7 +35505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Subaru',
@@ -35517,7 +35517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35529,7 +35529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35541,7 +35541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35553,7 +35553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35565,7 +35565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35577,7 +35577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35589,7 +35589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35601,7 +35601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35613,7 +35613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35625,7 +35625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35637,7 +35637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35649,7 +35649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35661,7 +35661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35673,7 +35673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35685,7 +35685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35697,7 +35697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35709,7 +35709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35721,7 +35721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35733,7 +35733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35745,7 +35745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35757,7 +35757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35769,7 +35769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Suzuki',
@@ -35781,7 +35781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35793,7 +35793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35805,7 +35805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35817,7 +35817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35829,7 +35829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35841,7 +35841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35853,7 +35853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35865,7 +35865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35877,7 +35877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35889,7 +35889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35901,7 +35901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35913,7 +35913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35925,7 +35925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35937,7 +35937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35949,7 +35949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35961,7 +35961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35973,7 +35973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35985,7 +35985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -35997,7 +35997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36009,7 +36009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36021,7 +36021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36033,7 +36033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36045,7 +36045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36057,7 +36057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36069,7 +36069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36081,7 +36081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36093,7 +36093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36105,7 +36105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36117,7 +36117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36129,7 +36129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36141,7 +36141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36153,7 +36153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36165,7 +36165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36177,7 +36177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Toyota',
@@ -36189,7 +36189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36201,7 +36201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36213,7 +36213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36225,7 +36225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36237,7 +36237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36249,7 +36249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36261,7 +36261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36273,7 +36273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36285,7 +36285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36297,7 +36297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36309,7 +36309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36321,7 +36321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36333,7 +36333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36345,7 +36345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36357,7 +36357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36369,7 +36369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36381,7 +36381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36393,7 +36393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36405,7 +36405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36417,7 +36417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36429,7 +36429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36441,7 +36441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 31 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36453,7 +36453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36465,7 +36465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36477,7 +36477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36489,7 +36489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36501,7 +36501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36513,7 +36513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36525,7 +36525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36537,7 +36537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36549,7 +36549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36561,7 +36561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36573,7 +36573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36585,7 +36585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36597,7 +36597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36609,7 +36609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36621,7 +36621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36633,7 +36633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36645,7 +36645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36657,7 +36657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36669,7 +36669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36681,7 +36681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36693,7 +36693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36705,7 +36705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36717,7 +36717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36729,7 +36729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36741,7 +36741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36753,7 +36753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36765,7 +36765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36777,7 +36777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36789,7 +36789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36801,7 +36801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36813,7 +36813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36825,7 +36825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36837,7 +36837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36849,7 +36849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36861,7 +36861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36873,7 +36873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36885,7 +36885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36897,7 +36897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36909,7 +36909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36921,7 +36921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36933,7 +36933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36945,7 +36945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36957,7 +36957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36969,7 +36969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36981,7 +36981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -36993,7 +36993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37005,7 +37005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37017,7 +37017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37029,7 +37029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '49 PS - 36 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37041,7 +37041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37053,7 +37053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37065,7 +37065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37077,7 +37077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37089,7 +37089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37101,7 +37101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '10 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37113,7 +37113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37125,7 +37125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37137,7 +37137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37149,7 +37149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37161,7 +37161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37173,7 +37173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37185,7 +37185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37197,7 +37197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37209,7 +37209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37221,7 +37221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37233,7 +37233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37245,7 +37245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37257,7 +37257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '42 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37269,7 +37269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37281,7 +37281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37293,7 +37293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37305,7 +37305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37317,7 +37317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37329,7 +37329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37341,7 +37341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37353,7 +37353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37365,7 +37365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37377,7 +37377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37389,7 +37389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37401,7 +37401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37413,7 +37413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37425,7 +37425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37437,7 +37437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37449,7 +37449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37461,7 +37461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37473,7 +37473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37485,7 +37485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37497,7 +37497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37509,7 +37509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37521,7 +37521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37533,7 +37533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37545,7 +37545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37557,7 +37557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37569,7 +37569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37581,7 +37581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37593,7 +37593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37605,7 +37605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37617,7 +37617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volvo',
@@ -37629,7 +37629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '48 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37641,7 +37641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '53 PS - 39 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37653,7 +37653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37665,7 +37665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '37 PS - 27 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37677,7 +37677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '96 PS - 71 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37689,7 +37689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '76 PS - 56 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37701,7 +37701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37713,7 +37713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37725,7 +37725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37737,7 +37737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37749,7 +37749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37761,7 +37761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37773,7 +37773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37785,7 +37785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37797,7 +37797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37809,7 +37809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37821,7 +37821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37833,7 +37833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37845,7 +37845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37857,7 +37857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37869,7 +37869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37881,7 +37881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37893,7 +37893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37905,7 +37905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37917,7 +37917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37929,7 +37929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37941,7 +37941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37953,7 +37953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '57 PS - 42 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37965,7 +37965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37977,7 +37977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -37989,7 +37989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38001,7 +38001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38013,7 +38013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38025,7 +38025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38037,7 +38037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38049,7 +38049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38061,7 +38061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38073,7 +38073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38085,7 +38085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38097,7 +38097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38109,7 +38109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38121,7 +38121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38133,7 +38133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38145,7 +38145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38157,7 +38157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38169,7 +38169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38181,7 +38181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38193,7 +38193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38205,7 +38205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '359,- Euro inkl. MwSt.'
+        preis: '359.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38217,7 +38217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38229,7 +38229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38241,7 +38241,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38253,7 +38253,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38265,7 +38265,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38277,7 +38277,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38289,7 +38289,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38301,7 +38301,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38313,7 +38313,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38325,7 +38325,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '14 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38337,7 +38337,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38349,7 +38349,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38361,7 +38361,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38373,7 +38373,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38385,7 +38385,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38397,7 +38397,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38409,7 +38409,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38421,7 +38421,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38433,7 +38433,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38445,7 +38445,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38457,7 +38457,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38469,7 +38469,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38481,7 +38481,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38493,7 +38493,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38505,7 +38505,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38517,7 +38517,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38529,7 +38529,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38541,7 +38541,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38553,7 +38553,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38565,7 +38565,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38577,7 +38577,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38589,7 +38589,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38601,7 +38601,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38613,7 +38613,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38625,7 +38625,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38637,7 +38637,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38649,7 +38649,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38661,7 +38661,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38673,7 +38673,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38685,7 +38685,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '80 PS - 59 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38697,7 +38697,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38709,7 +38709,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38721,7 +38721,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38733,7 +38733,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38745,7 +38745,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38757,7 +38757,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38769,7 +38769,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '32 PS - 24 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38781,7 +38781,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38793,7 +38793,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38805,7 +38805,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38817,7 +38817,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38829,7 +38829,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38841,7 +38841,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38853,7 +38853,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38865,7 +38865,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '75 PS - 55 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38877,7 +38877,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38889,7 +38889,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38901,7 +38901,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38913,7 +38913,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38925,7 +38925,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38937,7 +38937,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38949,7 +38949,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38961,7 +38961,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '28 PS - 21 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38973,7 +38973,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38985,7 +38985,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -38997,7 +38997,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39009,7 +39009,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39021,7 +39021,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39033,7 +39033,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '55 PS - 40 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39045,7 +39045,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39057,7 +39057,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39069,7 +39069,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '12 PS - 9 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39081,7 +39081,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39093,7 +39093,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39105,7 +39105,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39117,7 +39117,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39129,7 +39129,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39141,7 +39141,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39153,7 +39153,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39165,7 +39165,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39177,7 +39177,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '8 PS - 6 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39189,7 +39189,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39201,7 +39201,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39213,7 +39213,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39225,7 +39225,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '11 PS - 8 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39237,7 +39237,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39249,7 +39249,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39261,7 +39261,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39273,7 +39273,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39285,7 +39285,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39297,7 +39297,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39309,7 +39309,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39321,7 +39321,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39333,7 +39333,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39345,7 +39345,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39357,7 +39357,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39369,7 +39369,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39381,7 +39381,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39393,7 +39393,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39405,7 +39405,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39417,7 +39417,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39429,7 +39429,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39441,7 +39441,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39453,7 +39453,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39465,7 +39465,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39477,7 +39477,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39489,7 +39489,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39501,7 +39501,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39513,7 +39513,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '46 PS - 34 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39525,7 +39525,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '13 PS - 10 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39537,7 +39537,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39549,7 +39549,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39561,7 +39561,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39573,7 +39573,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39585,7 +39585,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39597,7 +39597,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39609,7 +39609,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39621,7 +39621,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '9 PS - 7 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '349,- Euro inkl. MwSt.'
+        preis: '349.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39633,7 +39633,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39645,7 +39645,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39657,7 +39657,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39669,7 +39669,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39681,7 +39681,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39693,7 +39693,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39705,7 +39705,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39717,7 +39717,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39729,7 +39729,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39741,7 +39741,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39753,7 +39753,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39765,7 +39765,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39777,7 +39777,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39789,7 +39789,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39801,7 +39801,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39813,7 +39813,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39825,7 +39825,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39837,7 +39837,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39849,7 +39849,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39861,7 +39861,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39873,7 +39873,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '80 PS - 59 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39885,7 +39885,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39897,7 +39897,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39909,7 +39909,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39921,7 +39921,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39933,7 +39933,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39945,7 +39945,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39957,7 +39957,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39969,7 +39969,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39981,7 +39981,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -39993,7 +39993,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40005,7 +40005,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40017,7 +40017,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '17 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40029,7 +40029,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '16 PS - 12 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40041,7 +40041,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40053,7 +40053,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40065,7 +40065,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '24 PS - 18 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40077,7 +40077,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40089,7 +40089,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '51 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40101,7 +40101,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40113,7 +40113,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40125,7 +40125,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40137,7 +40137,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40149,7 +40149,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40161,7 +40161,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '65 PS - 48 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40173,7 +40173,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40185,7 +40185,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '20 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40197,7 +40197,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40209,7 +40209,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40221,7 +40221,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40233,7 +40233,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40245,7 +40245,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40257,7 +40257,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40269,7 +40269,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40281,7 +40281,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40293,7 +40293,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40305,7 +40305,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40317,7 +40317,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '41 PS - 30 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40329,7 +40329,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40341,7 +40341,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40353,7 +40353,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40365,7 +40365,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40377,7 +40377,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40389,7 +40389,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40401,7 +40401,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40413,7 +40413,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40425,7 +40425,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40437,7 +40437,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40449,7 +40449,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40461,7 +40461,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40473,7 +40473,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40485,7 +40485,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40497,7 +40497,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40509,7 +40509,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40521,7 +40521,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40533,7 +40533,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40545,7 +40545,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40557,7 +40557,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40569,7 +40569,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40581,7 +40581,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40593,7 +40593,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40605,7 +40605,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40617,7 +40617,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40629,7 +40629,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40641,7 +40641,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40653,7 +40653,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40665,7 +40665,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40677,7 +40677,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40689,7 +40689,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40701,7 +40701,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '36 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40713,7 +40713,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40725,7 +40725,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40737,7 +40737,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40749,7 +40749,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '47 PS - 35 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40761,7 +40761,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40773,7 +40773,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40785,7 +40785,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40797,7 +40797,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40809,7 +40809,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40821,7 +40821,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40833,7 +40833,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40845,7 +40845,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40857,7 +40857,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40869,7 +40869,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40881,7 +40881,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40893,7 +40893,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40905,7 +40905,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40917,7 +40917,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '30 PS - 22 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40929,7 +40929,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40941,7 +40941,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '27 PS - 20 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '599,- Euro inkl. MwSt.'
+        preis: '599.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40953,7 +40953,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 37 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40965,7 +40965,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '52 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40977,7 +40977,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -40989,7 +40989,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41001,7 +41001,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '21 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41013,7 +41013,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '19 PS - 15 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41025,7 +41025,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '50 PS - 38 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41037,7 +41037,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '43 PS - 32 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41049,7 +41049,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '45 PS - 33 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41061,7 +41061,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41073,7 +41073,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '31 PS - 23 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41085,7 +41085,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41097,7 +41097,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '26 PS - 19 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41109,7 +41109,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41121,7 +41121,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '34 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41133,7 +41133,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '15 PS - 11 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '399,- Euro inkl. MwSt.'
+        preis: '399.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41145,7 +41145,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '40 PS - 29 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41157,7 +41157,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41169,7 +41169,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 26 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '499,- Euro inkl. MwSt.'
+        preis: '499.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41181,7 +41181,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '38 PS - 28 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Volkswagen',
@@ -41193,7 +41193,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '35 PS - 25 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '569,- Euro inkl. MwSt.'
+        preis: '569.- Euro inkl. MwSt.'
     },
     {
         marke: 'Wiesmann',
@@ -41205,7 +41205,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '29 PS - 14 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Wiesmann',
@@ -41217,7 +41217,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '22 PS - 16 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     },
     {
         marke: 'Wiesmann',
@@ -41229,7 +41229,7 @@ const fahrzeuge = [
         vmax: 'Ja',
         mehrleistung: '18 PS - 13 kW',
         upgrade: 'weitere Upgrades auf Anfrage',
-        preis: '699,- Euro inkl. MwSt.'
+        preis: '699.- Euro inkl. MwSt.'
     }
 ,
 ];
