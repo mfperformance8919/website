@@ -1,31 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MF Performance - Dein Tuning Profi</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <h1>MF Performance Konfigurator</h1>
-    
-    <label for="marke">Marke:</label>
-    <select id="marke" onchange="updateModelle()">
-        <option value="" disabled selected>Auswählen</option>
-        <option value="Abarth">Abarth</option>
+<h1>
+    Wähle dein Fahrzeug
+</h1>
+<label for="marke">Marke:</label> <select id="marke" onchange="updateModelle()">
+    <option value="" disabled="disabled" selected="selected">
+        Auswählen
+    </option>
         <option value="Alfa Romeo">Alfa Romeo</option>
-        <option value="Alpina">Alpina</option>
-        <option value="Alpine">Alpine</option>
         <option value="Aston Martin">Aston Martin</option>
         <option value="Audi">Audi</option>
         <option value="Bentley">Bentley</option>
         <option value="BMW">BMW</option>
+        <option value="Bugatti">Bugatti</option>
         <option value="Chevrolet">Chevrolet</option>
         <option value="Chrysler">Chrysler</option>
         <option value="Citroën">Citroën</option>
-        <option value="Corvette">Corvette</option>
-        <option value="Cupra">Cupra</option>
         <option value="Dacia">Dacia</option>
+        <option value="Daihatsu">Daihatsu</option>
         <option value="Dodge">Dodge</option>
         <option value="Ferrari">Ferrari</option>
         <option value="Fiat">Fiat</option>
@@ -34,80 +24,90 @@
         <option value="Hummer">Hummer</option>
         <option value="Hyundai">Hyundai</option>
         <option value="Infiniti">Infiniti</option>
-        <option value="Iveco">Iveco</option>
+        <option value="Isuzu">Isuzu</option>
         <option value="Jaguar">Jaguar</option>
         <option value="Jeep">Jeep</option>
         <option value="Kia">Kia</option>
-        <option value="Lada">Lada</option>
+        <option value="KTM">KTM</option>
         <option value="Lamborghini">Lamborghini</option>
         <option value="Lancia">Lancia</option>
         <option value="Landrover">Landrover</option>
         <option value="Lexus">Lexus</option>
+        <option value="Lotus">Lotus</option>
         <option value="Maserati">Maserati</option>
         <option value="Maybach">Maybach</option>
         <option value="Mazda">Mazda</option>
         <option value="McLaren">McLaren</option>
-        <option value="Mercedes">Mercedes</option>
-        <option value="MG">MG</option>
+        <option value="Mercedes Benz">Mercedes Benz</option>
         <option value="Mini">Mini</option>
         <option value="Mitsubishi">Mitsubishi</option>
         <option value="Nissan">Nissan</option>
-        <option value="Opel/GM">Opel/GM</option>
-        <option value="Pagani">Pagani</option>
+        <option value="Opel">Opel</option>
         <option value="Peugeot">Peugeot</option>
-        <option value="Pontiac">Pontiac</option>
         <option value="Porsche">Porsche</option>
         <option value="Renault">Renault</option>
+        <option value="Rolls Royce">Rolls Royce</option>
         <option value="Rover">Rover</option>
         <option value="Saab">Saab</option>
         <option value="Seat">Seat</option>
         <option value="Skoda">Skoda</option>
         <option value="Smart">Smart</option>
+        <option value="SsangYong">SsangYong</option>
         <option value="Subaru">Subaru</option>
         <option value="Suzuki">Suzuki</option>
-        <option value="Ssangyong">Ssangyong</option>
         <option value="Toyota">Toyota</option>
-        <option value="Volkswagen">Volkswagen</option>
         <option value="Volvo">Volvo</option>
-        
-    </select>
+        <option value="Volkswagen">Volkswagen</option>
+        <option value="Wiesmann">Wiesmann</option>
 
-    <label for="modell">Modell:</label>
-    <select id="modell" onchange="updateBaujahre()" disabled>
-        <option value="" disabled selected>Auswählen</option>
-    </select>
+</select> <label for="modell">Modell:</label> <select id="modell" onchange="updateBaujahre()" disabled="disabled">
+    <option value="" disabled="disabled" selected="selected">
+        Auswählen
+    </option>
+</select> <label for="baujahr">Baujahr:</label> <select id="baujahr" onchange="updateMotoren()" disabled="disabled">
+    <option value="" disabled="disabled" selected="selected">
+        Auswählen
+    </option>
+</select> <label for="motor">Motor:</label> <select id="motor" disabled="disabled">
+    <option value="" disabled="disabled" selected="selected">
+        Auswählen
+    </option>
+</select> <button onclick="berechnen()">Berechnen</button> <button onclick="resetAuswahl()">Auswahl zurücksetzen</button>
+<div id="ergebnisse" style="display:none;">
+    <h2 id="fahrzeugTitel">
+    </h2>
 
-    <label for="baujahr">Baujahr:</label>
-    <select id="baujahr" onchange="updateMotoren()" disabled>
-        <option value="" disabled selected>Auswählen</option>
-    </select>
+    <ul>
+        <li id="seriendaten">
+            <b>Seriendaten:</b>
+        </li>
 
-    <label for="motor">Motor:</label>
-    <select id="motor" disabled>
-        <option value="" disabled selected>Auswählen</option>
-    </select>
+        <li id="optimierung">
+            <b>MF Performance Stage 1:</b>
+        </li>
 
-    <button onclick="berechnen()">Berechnen</button>
-    <button onclick="resetAuswahl()">Auswahl zurücksetzen</button>
+        <li id="vmax">
+            <b>Vmax Aufhebung:</b>
+        </li>
 
-    <div id="ergebnisse" style="display:none;">
-        <h2 id="fahrzeugTitel"></h2>
-        <ul>
-            <li id="seriendaten"><b>Seriendaten:</b> </li>
-            <li id="optimierung"><b>MF Performance Stage 1:</b> </li>
-            <li id="vmax"><b>Vmax Aufhebung:</b> </li>
-            <li id="mehrleistung"><b>Mehrleistung:</b> </li>
-            <li id="upgrade"><b>Upgrade:</b> </li>
-            <li id="preis"><b>Preis:</b> </li>
-            <li id="kleingedrucktes" style="font-size: 12px; color: #888; margin-top: 20px;">
-                <p>Wir geben 24 Monate Garantie auf die von uns verwendeten Bauteile. Irrtümer vorbehalten.
-		Beim Versand kommen Porto- und Verpackungskosten sowie die Nachnahmegebühr hinzu.
-		Alle Angaben sind Anhaltswerte, die sich aufgrund von Ausstattung, Fahrzeuganbauten, des Fahrzeuggewichtes,
-                der Übersetzung oder der Reifengröße ändern können.</p>
-            </li>
-        </ul>
-    </div>
+        <li id="mehrleistung">
+            <b>Mehrleistung:</b>
+        </li>
 
-    <script src="script.js"></script>
-</body>
-</html>
+        <li id="upgrade">
+            <b>Upgrade:</b>
+        </li>
+
+        <li id="preis">
+            <b>Preis:</b>
+        </li>
+
+        <li id="kleingedrucktes" style="font-size: 12px; color: #888; margin-top: 20px;">
+            <p>
+                Wir geben 24 Monate Garantie auf die von uns verwendeten Bauteile. Irrtümer vorbehalten. Beim Versand kommen Porto- und Verpackungskosten sowie die Nachnahmegebühr hinzu. Alle Angaben
+                sind Anhaltswerte, die sich aufgrund von Ausstattung, Fahrzeuganbauten, des Fahrzeuggewichtes, der Übersetzung oder der Reifengröße ändern können.
+            </p>
+        </li>
+    </ul>
+</div>
+<script src="https://mfperformance8919.github.io/website/script.js"></script>
